@@ -7,7 +7,7 @@ In this project, we just designed the hole project in Figma, using some concecpt
 
 The project is running at www.agrofertilcursos.com.br with a few modifications from this original project.
 
-Thanks for visiting and hoe you appreciate that.
+Thanks for visiting and hope you appreciate that.
 
 Suggestions always welcome.
 
