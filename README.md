@@ -1,3 +1,5 @@
+# VIDEOS NOT INCLUDED DUE TO SIZE RESTRICTIONS
+
 # ENGLISH
 ## About this project
 Welcome to the AgrofértilCursos repository. This is a collaborative authoral project between the dev`s Victor Serra and Matheus Queiroz, where we just re-create the webpage of courses` plataform.
@@ -22,6 +24,7 @@ The built project involved the following concepts:
 5. JS Slider
 
 # PT-BR
+# VIDEOS NÃO FORAM COLOCADOS DEVIDO AO SEU TAMANHO
 
 ## Sobre o projeto
 Bem-vindo ao repositorio AgrofértilCursos. Este é um trabalho autoral colaborativo realizado entre os programadores Victor Serra e Matheus Queiroz, onde recriamos a página de cursos desta plataforma.
